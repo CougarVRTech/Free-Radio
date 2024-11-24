@@ -18,3 +18,4 @@ No. just. NO!
 This is TechOS. This is a WORKING OPERATING SYSTEM that has the utilities to help you with any tech project. Getting PCBs? Use TechOS. 3D printing parts and need a monitor? Use TechOS. There is so many things you can do with TechOS, we cant even fit it on one line!
 We fully support Raspberry Pi boards, Dell,HP,ASUS, basically most boards with up-to-date BIOS.
 This OS is in beta testing, so there will be a lot of bugs.
+You must boot from a bootable MicroSD/SD/USB drive for OS to work.
